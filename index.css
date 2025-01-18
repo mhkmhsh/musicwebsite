@@ -128,5 +128,8 @@
     transition: 0.5s; 
   }
   
-
-  
+.container{
+    background-color: #E78B12;
+    color:#450303;
+    border-radius: 10px;
+}
