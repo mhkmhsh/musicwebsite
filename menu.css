@@ -27,3 +27,11 @@ header {
     border-radius: 10px; 
     overflow: hidden; 
 }
+img.col-lg-12{
+    height: 50%;   
+}
+h5 {
+    font-size: 5vw; 
+    text-align: center;
+ 
+}
