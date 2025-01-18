@@ -18,7 +18,7 @@
   }
   
   header .logo {
-    color: #B7C7BF;
+    color: #E78B12;
     text-transform: uppercase;
     cursor: pointer;
   }
@@ -92,7 +92,7 @@
   .text a {
     display: inline-block; 
     font-size: 1em; 
-    background: #B7C7BF; 
+    background: #E78B12; 
     padding: 10px 30px; 
     text-transform: uppercase; 
     text-decoration: none; 
@@ -127,9 +127,3 @@
     transform: scale(0.5); 
     transition: 0.5s; 
   }
-  
-.container{
-    background-color: #E78B12;
-    color:#450303;
-    border-radius: 10px;
-}
